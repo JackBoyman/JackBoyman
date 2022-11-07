@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on spezific 3D visualization software
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on texturizing algorithms for OBJs
+- 💬 Ask me about 3D models and photogrammetry
+
 <!--
 **JackBoyman/JackBoyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
