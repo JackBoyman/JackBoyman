@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on spezific 3D visualization software
+- 🔭 I’m currently working on 3D visualization and annotation software
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on texturizing algorithms for OBJs
 - 💬 Ask me about 3D models and photogrammetry
